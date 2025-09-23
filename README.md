@@ -61,6 +61,7 @@ outsera_appium_challenge/
 ## Relatórios
 
 O relatório esta sendo gerado pela bibloteca <b>Spec</b> e é possível visualizar no consele após as execuções do testes. Abaixo um exemplo:
+![Report appium](report_appium.png)
 
 ## Observações adicionais
 - Todos os comandos devem ser executados no terminal dentro da raiz do projeto (diretório onde está o package.json).
